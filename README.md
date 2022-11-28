@@ -1,3 +1,3 @@
-# Lista de exércicios JAVA - FB Uni
+# Lista de exércicios JAVA
 
 Resolução das listas propostas durante o semestre.
